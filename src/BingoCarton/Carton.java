@@ -3,7 +3,10 @@ package BingoCarton;
 import java.util.HashSet;
 import java.util.Random;
 import java.util.Set;
-
+/**
+ *
+ * @author Eduard Salas Murillo
+ */
 public class Carton implements Cloneable {
     private final String id;
     private final int[][] numeros; 
