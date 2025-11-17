@@ -2,6 +2,10 @@ package BingoServicios;
 
 import BingoInterfaces.Ganador;
 import BingoCarton.Carton;
+/**
+ *
+ * @author Luisf
+ */
 
 public class CartonLleno implements Ganador {
     @Override
